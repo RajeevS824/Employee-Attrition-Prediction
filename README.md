@@ -27,14 +27,13 @@ The project integrates **Python (EDA & ML), Scikit-learn (models), and Streamlit
 * Correlation heatmap of key factors (e.g., overtime, job satisfaction).
 * Bar plots & box plots: attrition vs income, department, promotions.
 
-### 3. Machine Learning Models (Scikit-learn + XGBoost)
+### 3. Machine Learning Models (Scikit-learn )
 
 Implemented and compared multiple models:
 
 * Logistic Regression
 * Decision Tree
 * Random Forest
-* XGBoost (only in Attrition model)
 * Naive Bayes
 * Support Vector Machine (SVM)
 * AdaBoost
