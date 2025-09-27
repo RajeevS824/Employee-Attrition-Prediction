@@ -1,4 +1,3 @@
-
 # 👨‍💼 Employee Attrition & Performance Dashboard
 
 📌 **Project Overview**
