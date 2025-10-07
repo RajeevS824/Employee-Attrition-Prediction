@@ -15,7 +15,7 @@ The project integrates **Python (EDA & ML), Scikit-learn (models), and Streamlit
 
 ### 1. Data Preparation (Python + Pandas)
 
-* Loaded & cleaned IBM HR Analytics Employee Attrition dataset.
+* Loaded & cleaned HR Analytics Employee Attrition dataset.
 * Dropped irrelevant columns (`EmployeeCount`, `Over18`, `StandardHours`).
 * Encoded categorical variables (LabelEncoder).
 * Applied feature scaling (`StandardScaler` & `MinMaxScaler`).
