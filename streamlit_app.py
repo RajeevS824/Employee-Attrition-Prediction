@@ -159,6 +159,10 @@ elif page == "⭐ Performance Prediction":
         elif f in ['Education','OverTime']:
             user_input[f] = st.selectbox(f, label_encoders[f].classes_)
 
+    # Encode categoricals before scaling
+    for col in ['Education','OverTime']:
+        user_input[col] = label_encoders[col].transform([user_input[col]])[0]
+
     if st.button("Predict Performance Rating"):
         X_new = pd.DataFrame([user_input], columns=features)
         X_new = scaler.transform(X_new)
