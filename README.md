@@ -36,7 +36,6 @@ Implemented and compared multiple models:
 * Random Forest
 * Naive Bayes
 * Support Vector Machine (SVM)
-* AdaBoost
 
 **Evaluation Metrics:** Accuracy, Precision, Recall, F1-Score, ROC-AUC, Classification Report.
 
