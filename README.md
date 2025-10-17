@@ -18,7 +18,7 @@ The project integrates **Python (EDA & ML), Scikit-learn (models), and Streamlit
 * Loaded & cleaned HR Analytics Employee Attrition dataset.
 * Dropped irrelevant columns (`EmployeeCount`, `Over18`, `StandardHours`).
 * Encoded categorical variables (LabelEncoder).
-* Applied feature scaling (`StandardScaler` & `MinMaxScaler`).
+* Applied feature scaling (`StandardScaler` ).
 * Balanced imbalanced classes with **SMOTE**.
 
 ### 2. Exploratory Data Analysis (EDA)
