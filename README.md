@@ -37,10 +37,10 @@ This project focuses on analyzing employee attrition, identifying key factors in
 Employee turnover significantly impacts organizations through recruitment costs, productivity loss, and workflow disruption.
 This project aims to:
 
-✔ Understand patterns and key reasons behind employee attrition
-✔ Identify at-risk employees proactively
-✔ Build predictive ML models to support HR decision-making
-✔ Provide dashboards & insights to help implement retention strategies
+✔ Understand patterns and key reasons behind employee attrition<br>
+✔ Identify at-risk employees proactively<br>
+✔ Build predictive ML models to support HR decision-making<br>
+✔ Provide dashboards & insights to help implement retention strategies<br>
 
 ---
 
